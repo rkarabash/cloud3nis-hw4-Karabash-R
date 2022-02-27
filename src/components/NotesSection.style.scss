@@ -1,0 +1,15 @@
+.NotesSection__container {
+  display: flex;
+  width: 95%;
+  margin: 25px auto;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.NotesSection__container__empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
